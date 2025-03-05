@@ -2,7 +2,7 @@
 """
 Created by: Julianne Leblanc-Peltier
 Created on: March 2025
-This module calculates the circumference of a circle with a diamter of 42 mm
+This module calculates the circumference of a circle with a diameter of 42 mm
 """
 
 import math
@@ -14,7 +14,7 @@ def main() -> None:
     """
 
     print("If a circle has a diameter of 42 mm:\n")
-    print(f"Circumference is: {(math.pi * 42):.5f}")
+    print(f"Circumference is: {(math.pi * 42):.5f} mm")
 
     print("\nDone! :)")
 
